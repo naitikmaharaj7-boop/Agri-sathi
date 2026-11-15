@@ -1,0 +1,6 @@
+{
+  "name": "Agri Sathi",
+  "description": "Precision agritech weed-killing tractor companion by ERADIX with live Google Maps field tracking, coverage path optimization, multilingual AI agronomy chat, and robotic herbicide controls.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
